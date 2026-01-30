@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center">A passionate cloud engineer from India</h3>
+<h3 align="center">A passionate Cloud Engineer from India</h3>
 
 - 🔭 I’m currently working with **Azure Functions and App Sevices.**
 
